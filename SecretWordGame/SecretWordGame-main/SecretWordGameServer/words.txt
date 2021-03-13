@@ -1,0 +1,16 @@
+airoplane-3-3
+taxi-3-0
+milk-2-0
+running-0-1
+football-0-2
+train-3-2
+bus-3-1
+speghetti-2-3
+salad-2-1
+botatos-2-2
+drawing-1-2
+acting-1-0
+dancing-1-1
+music-1-3
+basketball-0-3
+hokey-0-0
